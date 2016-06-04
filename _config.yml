@@ -6,13 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Of Code and Finance"
+title: Of Code and Finance
 email: aaronecain@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    A blog where we discuss two of my passions: Code and Finance.
-  Look for new posts concerning software development, financial independence, 
-  web development, and more... Feel free to comment and make your requests known
-  for future posts!
+    "A blog where we discuss two of my passions: Code and Finance. Look for new posts concerning software development, financial independence, web development, and more... Feel free to comment and make your requests known for future posts!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ofcodeandfinance.com" # the base hostname & protocol for your site
 twitter_username: trashfisher
