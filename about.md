@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a CS student at Athens State University in Athens, AL. I have a lovely wife and three children, work full-time and attend school part-time. Seeking a career in software development and a future of financial indepence, I hope you join me on this journey.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
